@@ -21,6 +21,10 @@ Java and C. I'm also studying for **CompTIA Security+**
 - **Restaurant ordering system:** group web app with role-based access and an admin panel for managing orders, prices, discounts, and menu items (Node.js, JavaScript, PHP, HTML/CSS, MySQL, Apache). I worked on the MySQL database and CSS.
 - Competed in the **National Cyber League (NCL)** and **ICPC**
 - Worked at a **Computer Programming Help Desk**, helping students debug and work through programming assignments
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/simone-dabney-4643612ba/
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
